@@ -5,6 +5,4 @@
 
 第一篇博客：
 
-[你不知道的 JSON.stringify() 的威力](https://github.com/NieZhuZhu/Blog/issues/1)
-
-![image](https://user-images.githubusercontent.com/44939961/70403933-4d613980-1a73-11ea-9cf6-38fcbb0a680d.png)
+![](https://user-gold-cdn.xitu.io/2019/12/10/16eeef1002bd833e?w=900&h=500&f=png&s=145329)
