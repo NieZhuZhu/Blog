@@ -1,9 +1,8 @@
-# Blog
 > 不写 bugs 的前端不是好前端。
 
 
 
-第一篇博客：
+## JavaScript🏠
 
 [你不知道的 JSON.stringify() 的威力](https://github.com/NieZhuZhu/Blog/issues/1)
 
