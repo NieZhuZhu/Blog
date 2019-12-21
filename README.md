@@ -1,4 +1,5 @@
-<p align="center">不写 bugs 的前端不是好前端：弹铁蛋同学</p>
+<p align="center">回炉重造</p>
+<p align="center">Refurbishing</p>
 
 
 
