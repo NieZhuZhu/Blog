@@ -1,15 +1,15 @@
-<p align="center">不写 bugs 的前端不是好前端。</p>
+<p align="center">不写 bugs 的前端不是好前端：弹铁蛋同学</p>
 
 
 
 ## JavaScript 🏠
 
 [你不知道的 JSON.stringify() 的威力](https://github.com/NieZhuZhu/Blog/issues/1)
-<br/>
-<br/>
+
 
 未完待续...
-
+<br/>
+<br/>
 
 ## Be a friend 👬
 
