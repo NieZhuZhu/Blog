@@ -1,5 +1,5 @@
-> 不写 bugs 的前端不是好前端。
 
+<center> 不写 bugs 的前端不是好前端。</center>
 
 
 ## JavaScript🏠
