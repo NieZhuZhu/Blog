@@ -1,9 +1,11 @@
-<p align="center">回炉重造</p>
-<p align="center">🔨Refurbishing</p>
+<p align="center">回炉重造🔨Refurbishing </p>
+<p align="center"><img align="center" src="https://img.shields.io/github/issues/NieZhuZhu/Blog"/> </p>
+
 
 
 
 ## JavaScript 🏠
+
 
 [你不知道的 JSON.stringify() 的威力](https://github.com/NieZhuZhu/Blog/issues/1)
 
