@@ -23,6 +23,5 @@
 
 <div style="display:flex;justify-content:center" >
 <img src="https://user-gold-cdn.xitu.io/2019/12/22/16f2d09afc01f0b8" width = "230" height = "230" alt="" align=center />
-<img src="https://user-gold-cdn.xitu.io/2019/12/22/16f2d09eb59851d3?w=900&h=500&f=png&s=148345" width = "380" height = "230" alt="" align=center />
 </div>
 
