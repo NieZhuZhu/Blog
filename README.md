@@ -29,6 +29,6 @@
 ## Be a friend 👬
 
 <div style="display:flex;justify-content:center" >
-<img src=https://user-images.githubusercontent.com/44939961/100539163-76c03a00-326f-11eb-88e3-556fadf46ab1.png" width = "230" height = "230" alt="" align=center />
+<img src="https://user-images.githubusercontent.com/44939961/100539163-76c03a00-326f-11eb-88e3-556fadf46ab1.png" width = "230" height = "230" alt="" align=center />
 </div>
 
