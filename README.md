@@ -14,14 +14,13 @@
 
 [你不知道的 JSON.stringify() 的威力](https://github.com/NieZhuZhu/Blog/issues/1)
 
-[你的垂直居中有问题？我竟无法反驳 🤦🏻‍♂️](https://github.com/NieZhuZhu/Blog/issues/3)
-
 [面试官连环追问：数组拍平（扁平化） flat 方法实现](https://github.com/NieZhuZhu/Blog/issues/2)
 
 [所以 JavaScript 到底是什么？我居然懵了😮💫 ](https://github.com/NieZhuZhu/Blog/issues/4)
 
+## CSS 🤹‍♂️
 
-
+[你的垂直居中有问题？我竟无法反驳 🤦🏻‍♂️](https://github.com/NieZhuZhu/Blog/issues/3)
 
 
 未完待续...
