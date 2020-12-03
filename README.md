@@ -1,4 +1,4 @@
-<p align="center">回炉重造 🔨 Refurbishing </p>
+<p align="center">🔨 Refurbishing </p>
 <p align="center"><img align="center" src="https://img.shields.io/github/issues/NieZhuZhu/Blog"/> </p>
 
 
