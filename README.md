@@ -9,7 +9,7 @@
 
 [如何使用 useRef 修复 React 性能问题](https://github.com/NieZhuZhu/Blog/issues/6)
 
-[了解 React Portals（传送门）](https://github.com/NieZhuZhu/Blog/issues/8)
+[简单介绍就能理解的 React Portals（传送门）](https://github.com/NieZhuZhu/Blog/issues/8)
 
 
 ## JavaScript 🏠
