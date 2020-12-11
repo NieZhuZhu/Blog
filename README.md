@@ -7,7 +7,7 @@
 
 [🔥 如何优雅地解决多个 React、Vue App 之间的状态共享？](https://github.com/NieZhuZhu/Blog/issues/5)
 
-如何使用 useRef 修复 React 性能问题](https://github.com/NieZhuZhu/Blog/issues/6)
+[如何使用 useRef 修复 React 性能问题](https://github.com/NieZhuZhu/Blog/issues/6)
 
 
 ## JavaScript 🏠
