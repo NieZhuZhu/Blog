@@ -5,7 +5,7 @@
 
 ## React 🚀
 
-[🔥 如何优雅地解决多个 React、Vue App 之间的状态共享？](https://github.com/NieZhuZhu/Blog/issues/5)
+[如何优雅地解决多个 React、Vue App 之间的状态共享？](https://github.com/NieZhuZhu/Blog/issues/5)
 
 [如何使用 useRef 修复 React 性能问题](https://github.com/NieZhuZhu/Blog/issues/6)
 
@@ -18,13 +18,13 @@
 
 [面试官连环追问：数组拍平（扁平化） flat 方法实现](https://github.com/NieZhuZhu/Blog/issues/2)
 
-[所以 JavaScript 到底是什么？我居然懵了😮💫 ](https://github.com/NieZhuZhu/Blog/issues/4)
+[所以 JavaScript 到底是什么？我居然懵了](https://github.com/NieZhuZhu/Blog/issues/4)
 
 [JavaScript 中模块的导入和导出——最最最简明教程](https://github.com/NieZhuZhu/Blog/issues/7)
 
 ## CSS 🤹‍♂️
 
-[你的垂直居中有问题？我竟无法反驳 🤦🏻‍♂️](https://github.com/NieZhuZhu/Blog/issues/3)
+[你的垂直居中有问题？我竟无法反驳 🤦](https://github.com/NieZhuZhu/Blog/issues/3)
 
 
 
