@@ -26,6 +26,10 @@
 
 [你的垂直居中有问题？我竟无法反驳 🤦](https://github.com/NieZhuZhu/Blog/issues/3)
 
+## GraphQL
+
+[爱 GraphQL 胜过 REST](https://github.com/NieZhuZhu/Blog/issues/9)
+
 
 
 <br/>
