@@ -22,9 +22,13 @@
 
 [JavaScript 中模块的导入和导出——最最最简明教程](https://github.com/NieZhuZhu/Blog/issues/7)
 
+[为什么要让你的代码尽可能简单](https://github.com/NieZhuZhu/Blog/issues/10)
+
+
 ## CSS 🤹‍♂️
 
 [你的垂直居中有问题？我竟无法反驳 🤦](https://github.com/NieZhuZhu/Blog/issues/3)
+
 
 ## GraphQL
 
