@@ -1,7 +1,7 @@
 <p align="center">Keep Refurbishing 🔨</p>
 <p align="center"><img align="center" src="https://img.shields.io/github/issues/NieZhuZhu/Blog"/> </p>
 
-> 💕 真诚 Star，手留余香 💕
+> 真诚 Star，手留余香 💕
 
 ## React 🚀
 
