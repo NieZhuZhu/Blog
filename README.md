@@ -29,6 +29,8 @@
 
 [你的垂直居中有问题？我竟无法反驳 🤦](https://github.com/NieZhuZhu/Blog/issues/3)
 
+[解构标志性的 Apple Watch Bubble UI](https://github.com/NieZhuZhu/Blog/issues/11)
+
 
 ## GraphQL
 
