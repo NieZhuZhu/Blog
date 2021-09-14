@@ -28,6 +28,8 @@
 
 [为什么要让你的代码尽可能简单](https://github.com/NieZhuZhu/Blog/issues/10)
 
+[无密码认证，安全更有保障](https://github.com/NieZhuZhu/Blog/issues/14)
+
 
 ## CSS 🤹‍♂️
 
