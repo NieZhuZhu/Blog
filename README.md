@@ -15,6 +15,8 @@
 
 [简单介绍就能理解的 React Portals（传送门）](https://github.com/NieZhuZhu/Blog/issues/8)
 
+[5 种有趣的 useEffect 无限循环类型](https://github.com/NieZhuZhu/Blog/issues/15)
+
 
 ## JavaScript 🏠
 
